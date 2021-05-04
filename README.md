@@ -11,7 +11,7 @@
 
 ### under heading 1 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 * ![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043137-764e3280-ad2a-11eb-82a4-34feb30ab320.JPG)
 
@@ -28,7 +28,7 @@
 
 ### under heading 2 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043205-8d8d2000-ad2a-11eb-8af6-2d3cf06f7be3.JPG)
 
@@ -45,7 +45,7 @@
 
 ### under heading 3 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043231-97168800-ad2a-11eb-810a-81bd9fa26d70.JPG)
 
@@ -62,7 +62,7 @@
 
 ### under heading 4 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043255-9da4ff80-ad2a-11eb-90c9-4f90b5d65cac.JPG)
 
@@ -79,7 +79,7 @@
 
 ### under heading 5 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043317-b1506600-ad2a-11eb-93ed-4d988bcc3014.JPG)
 
@@ -96,7 +96,7 @@
 
 ### under heading 6 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043307-ae557580-ad2a-11eb-9667-1538a3b8e508.JPG)
 
@@ -113,7 +113,7 @@
 
 ### under heading 7 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043374-c200dc00-ad2a-11eb-945a-31240fc8e97d.JPG)
 
@@ -130,7 +130,7 @@
 
 ### under heading 8 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043358-bd3c2800-ad2a-11eb-86c6-490ebeed9e0f.JPG)
 
@@ -147,7 +147,7 @@
 
 ### under heading 9 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043401-ccbb7100-ad2a-11eb-87f2-ee8408850277.JPG)
 
@@ -164,7 +164,7 @@
 
 ### under heading 10 and bio 
 * uk is my country
-* i want to study in harvard 
+* i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043436-d80e9c80-ad2a-11eb-8d0c-93fc1b1fb2e8.JPG)
 

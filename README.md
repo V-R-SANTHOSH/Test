@@ -10,7 +10,7 @@
 * i study progrram
 
 ### under heading 1 and bio 
-* uk is my country
+* uk is my favo country
 * i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 * ![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043137-764e3280-ad2a-11eb-82a4-34feb30ab320.JPG)
@@ -27,7 +27,7 @@
 * i study progrram
 
 ### under heading 2 and bio 
-* uk is my country
+* uk is my favo country
 * i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043205-8d8d2000-ad2a-11eb-8af6-2d3cf06f7be3.JPG)
@@ -61,7 +61,7 @@
 * i study progrram
 
 ### under heading 4 and bio 
-* uk is my country
+* uk is my favo country
 * i want to study in 
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043255-9da4ff80-ad2a-11eb-90c9-4f90b5d65cac.JPG)

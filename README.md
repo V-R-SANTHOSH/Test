@@ -83,7 +83,7 @@
 * i want to work in apple or microsift or google as permanent employee
 *![PROFILE PIC](https://user-images.githubusercontent.com/68561711/117043317-b1506600-ad2a-11eb-93ed-4d988bcc3014.JPG)
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="v-r-santhosh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/v-r-santhosh?trk=profile-badge">SANTHOSH V.R.</a></div>
 
 
 
